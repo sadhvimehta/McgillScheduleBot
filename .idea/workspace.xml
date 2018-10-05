@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f84e236-dcb9-453e-b47e-84ed65f9891d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/acorn/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/dist/acorn.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/acorn/dist/acorn.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/dist/acorn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/acorn/dist/acorn.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/dist/acorn.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/acorn/dist/acorn.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/dist/acorn.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/acorn/dist/acorn.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/dist/acorn.mjs.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/acorn/dist/acorn.mjs.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/acorn/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/hoek/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/hoek/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="2f84e236-dcb9-453e-b47e-84ed65f9891d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -445,7 +433,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
@@ -466,17 +454,6 @@
             <path>
               <item name="mcgillschedulebot" type="b2602c69:ProjectViewProjectNode" />
               <item name="McgillScheduleBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="mcgillschedulebot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="McgillScheduleBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mcgillschedulebot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="McgillScheduleBot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="hoek" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mcgillschedulebot" type="b2602c69:ProjectViewProjectNode" />
@@ -587,7 +564,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -599,10 +575,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28522336" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28522336" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15456675" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15456675" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
       <window_info id="Learn" order="2" />
       <window_info anchor="right" id="Gradle" order="3" />
