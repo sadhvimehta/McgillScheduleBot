@@ -1,0 +1,27 @@
+{
+  "name": "mcgillschedulebot",
+  "version": "1.0.0",
+  "description": "Bot to aid schedule making for Mcgill University students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadhvimehta/McgillScheduleBot.git"
+  },
+  "author": "Sadhvi Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadhvimehta/McgillScheduleBot/issues"
+  },
+  "homepage": "https://github.com/sadhvimehta/McgillScheduleBot#readme",
+  "dependencies": {
+    "acorn": "^6.0.1",
+    "botbuilder": "^3.15.0",
+    "restify": "^7.2.1"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}

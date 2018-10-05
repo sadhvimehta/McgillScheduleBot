@@ -1,0 +1,15 @@
+{
+    "name": "McgillScheduleBot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "8673d900-78ab-11e8-a17e-571056bd12af",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ]
+}
